@@ -1,0 +1,50 @@
+﻿  Can.cpp
+  Coffee.cpp
+C:\cording\L20250422-Myproject\practice\Project1\VendingMachine.h(31,10): error C3646: 'Select': unknown override specifier
+  (compiling source file 'Coffee.cpp')
+  
+C:\cording\L20250422-Myproject\practice\Project1\VendingMachine.h(31,16): error C2059: syntax error: '('
+  (compiling source file 'Coffee.cpp')
+  
+C:\cording\L20250422-Myproject\practice\Project1\VendingMachine.h(32,2): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+  (compiling source file 'Coffee.cpp')
+  
+  Coin.cpp
+C:\cording\L20250422-Myproject\practice\Project1\VendingMachine.h(31,10): error C3646: 'Select': unknown override specifier
+  (compiling source file 'Coin.cpp')
+  
+C:\cording\L20250422-Myproject\practice\Project1\VendingMachine.h(31,16): error C2059: syntax error: '('
+  (compiling source file 'Coin.cpp')
+  
+C:\cording\L20250422-Myproject\practice\Project1\VendingMachine.h(32,2): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+  (compiling source file 'Coin.cpp')
+  
+  Main.cpp
+C:\cording\L20250422-Myproject\practice\Project1\Main.cpp(14,46): error C2248: 'VendingMachine::VendingMachine': cannot access private member declared in class 'VendingMachine'
+      C:\cording\L20250422-Myproject\practice\Project1\VendingMachine.h(16,2):
+      see declaration of 'VendingMachine::VendingMachine'
+      C:\cording\L20250422-Myproject\practice\Project1\VendingMachine.h(14,7):
+      see declaration of 'VendingMachine'
+  
+  Soda.cpp
+C:\cording\L20250422-Myproject\practice\Project1\VendingMachine.h(31,10): error C3646: 'Select': unknown override specifier
+  (compiling source file 'Soda.cpp')
+  
+C:\cording\L20250422-Myproject\practice\Project1\VendingMachine.h(31,16): error C2059: syntax error: '('
+  (compiling source file 'Soda.cpp')
+  
+C:\cording\L20250422-Myproject\practice\Project1\VendingMachine.h(32,2): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+  (compiling source file 'Soda.cpp')
+  
+  VendingMachine.cpp
+C:\cording\L20250422-Myproject\practice\Project1\VendingMachine.h(31,10): error C3646: 'Select': unknown override specifier
+  (compiling source file 'VendingMachine.cpp')
+  
+C:\cording\L20250422-Myproject\practice\Project1\VendingMachine.h(31,16): error C2059: syntax error: '('
+  (compiling source file 'VendingMachine.cpp')
+  
+C:\cording\L20250422-Myproject\practice\Project1\VendingMachine.h(32,2): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+  (compiling source file 'VendingMachine.cpp')
+  
+  Generating Code...
+C:\cording\L20250422-Myproject\practice\Project1\Can.cpp(9,1): error C4716: 'Can::flavor': must return a value
