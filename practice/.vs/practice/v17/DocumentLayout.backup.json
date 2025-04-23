@@ -3,24 +3,40 @@
   "WorkspaceRootPath": "C:\\cording\\L20250422-Myproject\\practice\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6C192FCD-D66F-4C29-9637-834C9D33581C}|Project1\\Project1.vcxproj|C:\\cording\\L20250422-Myproject\\practice\\Project1\\Coffee.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{6C192FCD-D66F-4C29-9637-834C9D33581C}|Project1\\Project1.vcxproj|solutionrelative:Project1\\Coffee.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{6C192FCD-D66F-4C29-9637-834C9D33581C}|Project1\\Project1.vcxproj|C:\\cording\\L20250422-Myproject\\practice\\Project1\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6C192FCD-D66F-4C29-9637-834C9D33581C}|Project1\\Project1.vcxproj|solutionrelative:Project1\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C192FCD-D66F-4C29-9637-834C9D33581C}|Project1\\Project1.vcxproj|C:\\cording\\L20250422-Myproject\\practice\\Project1\\Coin.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{6C192FCD-D66F-4C29-9637-834C9D33581C}|Project1\\Project1.vcxproj|solutionrelative:Project1\\Coin.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C192FCD-D66F-4C29-9637-834C9D33581C}|Project1\\Project1.vcxproj|C:\\cording\\L20250422-Myproject\\practice\\Project1\\Soda.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{6C192FCD-D66F-4C29-9637-834C9D33581C}|Project1\\Project1.vcxproj|solutionrelative:Project1\\Soda.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{6C192FCD-D66F-4C29-9637-834C9D33581C}|Project1\\Project1.vcxproj|C:\\cording\\L20250422-Myproject\\practice\\Project1\\VendingMachine.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6C192FCD-D66F-4C29-9637-834C9D33581C}|Project1\\Project1.vcxproj|solutionrelative:Project1\\VendingMachine.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6C192FCD-D66F-4C29-9637-834C9D33581C}|Project1\\Project1.vcxproj|C:\\cording\\L20250422-Myproject\\practice\\Project1\\VendingMachine.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{6C192FCD-D66F-4C29-9637-834C9D33581C}|Project1\\Project1.vcxproj|solutionrelative:Project1\\VendingMachine.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C192FCD-D66F-4C29-9637-834C9D33581C}|Project1\\Project1.vcxproj|C:\\cording\\L20250422-Myproject\\practice\\Project1\\VendingMachine.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{6C192FCD-D66F-4C29-9637-834C9D33581C}|Project1\\Project1.vcxproj|solutionrelative:Project1\\VendingMachine.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{6C192FCD-D66F-4C29-9637-834C9D33581C}|Project1\\Project1.vcxproj|C:\\cording\\L20250422-Myproject\\practice\\Project1\\Coffee.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6C192FCD-D66F-4C29-9637-834C9D33581C}|Project1\\Project1.vcxproj|solutionrelative:Project1\\Coffee.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C192FCD-D66F-4C29-9637-834C9D33581C}|Project1\\Project1.vcxproj|C:\\cording\\L20250422-Myproject\\practice\\Project1\\Can.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6C192FCD-D66F-4C29-9637-834C9D33581C}|Project1\\Project1.vcxproj|solutionrelative:Project1\\Can.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C192FCD-D66F-4C29-9637-834C9D33581C}|Project1\\Project1.vcxproj|C:\\cording\\L20250422-Myproject\\practice\\Project1\\Soda.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6C192FCD-D66F-4C29-9637-834C9D33581C}|Project1\\Project1.vcxproj|solutionrelative:Project1\\Soda.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C192FCD-D66F-4C29-9637-834C9D33581C}|Project1\\Project1.vcxproj|C:\\cording\\L20250422-Myproject\\practice\\Project1\\Coin.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6C192FCD-D66F-4C29-9637-834C9D33581C}|Project1\\Project1.vcxproj|solutionrelative:Project1\\Coin.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C192FCD-D66F-4C29-9637-834C9D33581C}|Project1\\Project1.vcxproj|C:\\cording\\L20250422-Myproject\\practice\\Project1\\Coffee.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6C192FCD-D66F-4C29-9637-834C9D33581C}|Project1\\Project1.vcxproj|solutionrelative:Project1\\Coffee.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C192FCD-D66F-4C29-9637-834C9D33581C}|Project1\\Project1.vcxproj|C:\\cording\\L20250422-Myproject\\practice\\Project1\\Can.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6C192FCD-D66F-4C29-9637-834C9D33581C}|Project1\\Project1.vcxproj|solutionrelative:Project1\\Can.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6C192FCD-D66F-4C29-9637-834C9D33581C}|Project1\\Project1.vcxproj|C:\\cording\\L20250422-Myproject\\practice\\Project1\\Soda.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -29,22 +45,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{6C192FCD-D66F-4C29-9637-834C9D33581C}|Project1\\Project1.vcxproj|C:\\cording\\L20250422-Myproject\\practice\\Project1\\Coin.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{6C192FCD-D66F-4C29-9637-834C9D33581C}|Project1\\Project1.vcxproj|solutionrelative:Project1\\Coin.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C192FCD-D66F-4C29-9637-834C9D33581C}|Project1\\Project1.vcxproj|C:\\cording\\L20250422-Myproject\\practice\\Project1\\Can.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{6C192FCD-D66F-4C29-9637-834C9D33581C}|Project1\\Project1.vcxproj|solutionrelative:Project1\\Can.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C192FCD-D66F-4C29-9637-834C9D33581C}|Project1\\Project1.vcxproj|C:\\cording\\L20250422-Myproject\\practice\\Project1\\Coffee.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{6C192FCD-D66F-4C29-9637-834C9D33581C}|Project1\\Project1.vcxproj|solutionrelative:Project1\\Coffee.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C192FCD-D66F-4C29-9637-834C9D33581C}|Project1\\Project1.vcxproj|C:\\cording\\L20250422-Myproject\\practice\\Project1\\Can.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{6C192FCD-D66F-4C29-9637-834C9D33581C}|Project1\\Project1.vcxproj|solutionrelative:Project1\\Can.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C192FCD-D66F-4C29-9637-834C9D33581C}|Project1\\Project1.vcxproj|C:\\cording\\L20250422-Myproject\\practice\\Project1\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{6C192FCD-D66F-4C29-9637-834C9D33581C}|Project1\\Project1.vcxproj|solutionrelative:Project1\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,11 +54,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 11,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "Coin.cpp",
               "DocumentMoniker": "C:\\cording\\L20250422-Myproject\\practice\\Project1\\Coin.cpp",
               "RelativeDocumentMoniker": "Project1\\Coin.cpp",
@@ -66,25 +70,23 @@
               "RelativeToolTip": "Project1\\Coin.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-22T01:36:33.255Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-22T01:36:33.255Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 4,
               "Title": "Can.cpp",
               "DocumentMoniker": "C:\\cording\\L20250422-Myproject\\practice\\Project1\\Can.cpp",
               "RelativeDocumentMoniker": "Project1\\Can.cpp",
               "ToolTip": "C:\\cording\\L20250422-Myproject\\practice\\Project1\\Can.cpp",
               "RelativeToolTip": "Project1\\Can.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-22T01:43:19.914Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-22T01:43:19.914Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "Coin.h",
               "DocumentMoniker": "C:\\cording\\L20250422-Myproject\\practice\\Project1\\Coin.h",
               "RelativeDocumentMoniker": "Project1\\Coin.h",
@@ -92,12 +94,11 @@
               "RelativeToolTip": "Project1\\Coin.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-04-22T00:46:21.308Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-22T00:46:21.308Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 3,
               "Title": "Coffee.cpp",
               "DocumentMoniker": "C:\\cording\\L20250422-Myproject\\practice\\Project1\\Coffee.cpp",
               "RelativeDocumentMoniker": "Project1\\Coffee.cpp",
@@ -105,64 +106,59 @@
               "RelativeToolTip": "Project1\\Coffee.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-22T00:40:59.521Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-22T00:40:59.521Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
               "Title": "Coffee.h",
               "DocumentMoniker": "C:\\cording\\L20250422-Myproject\\practice\\Project1\\Coffee.h",
               "RelativeDocumentMoniker": "Project1\\Coffee.h",
               "ToolTip": "C:\\cording\\L20250422-Myproject\\practice\\Project1\\Coffee.h",
               "RelativeToolTip": "Project1\\Coffee.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-04-22T00:40:10.915Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-22T00:40:10.915Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "Soda.cpp",
               "DocumentMoniker": "C:\\cording\\L20250422-Myproject\\practice\\Project1\\Soda.cpp",
               "RelativeDocumentMoniker": "Project1\\Soda.cpp",
               "ToolTip": "C:\\cording\\L20250422-Myproject\\practice\\Project1\\Soda.cpp",
               "RelativeToolTip": "Project1\\Soda.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-22T00:39:09.632Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-22T00:39:09.632Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Soda.h",
               "DocumentMoniker": "C:\\cording\\L20250422-Myproject\\practice\\Project1\\Soda.h",
               "RelativeDocumentMoniker": "Project1\\Soda.h",
               "ToolTip": "C:\\cording\\L20250422-Myproject\\practice\\Project1\\Soda.h",
               "RelativeToolTip": "Project1\\Soda.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-04-22T00:38:33.349Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-22T00:38:33.349Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 8,
               "Title": "Can.h",
               "DocumentMoniker": "C:\\cording\\L20250422-Myproject\\practice\\Project1\\Can.h",
               "RelativeDocumentMoniker": "Project1\\Can.h",
               "ToolTip": "C:\\cording\\L20250422-Myproject\\practice\\Project1\\Can.h",
               "RelativeToolTip": "Project1\\Can.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-04-22T00:35:04.259Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-22T00:35:04.259Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "VendingMachine.cpp",
               "DocumentMoniker": "C:\\cording\\L20250422-Myproject\\practice\\Project1\\VendingMachine.cpp",
               "RelativeDocumentMoniker": "Project1\\VendingMachine.cpp",
@@ -170,31 +166,29 @@
               "RelativeToolTip": "Project1\\VendingMachine.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-22T00:33:02.54Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-22T00:33:02.54Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "VendingMachine.h",
               "DocumentMoniker": "C:\\cording\\L20250422-Myproject\\practice\\Project1\\VendingMachine.h",
               "RelativeDocumentMoniker": "Project1\\VendingMachine.h",
               "ToolTip": "C:\\cording\\L20250422-Myproject\\practice\\Project1\\VendingMachine.h",
               "RelativeToolTip": "Project1\\VendingMachine.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAADgvxoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-04-22T00:33:00.936Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-22T00:33:00.936Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 0,
               "Title": "Main.cpp",
               "DocumentMoniker": "C:\\cording\\L20250422-Myproject\\practice\\Project1\\Main.cpp",
               "RelativeDocumentMoniker": "Project1\\Main.cpp",
               "ToolTip": "C:\\cording\\L20250422-Myproject\\practice\\Project1\\Main.cpp",
               "RelativeToolTip": "Project1\\Main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-04-22T00:10:59.963Z",
               "EditorCaption": ""

@@ -2,12 +2,28 @@
 #include "Can.h"
 #include <string>
 
+class TOP
+
 
 class Coffee : public Can
 {
 	
 
+
+
+
+
+
 public:
+
+	
+
+
+
+
+
+
+
 
 
 	Coffee();

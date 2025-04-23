@@ -9,12 +9,34 @@ class Juice;
 class Coffee;
 
 
+
+struct can
+{
+	int cost;
+	int kal;
+	string name[10];
+	string brand[10];
+
+};
+
+
 class Can
 {
 	
 
 public:
 	 
+
+	
+	// 
+
+	can coffee = { 100,30,"TOP","Lotte"};
+	
+
+
+
+
+
 
 
 	virtual std::string flavor();
